@@ -1,7 +1,9 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mutthuram S R</h1>
-<h3 align="center">A passionate frontend developer| Tech Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=A+passionate+Frontend+Developer;Tech+Enthusiast;Full+Stack+Developer+Loading......."
+       alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZmM21mMmt6djJ3dG4zbzNpNHVxbzh4YTRoejhtbDVqczliZ28xYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Boy Typing" width="300"/>
