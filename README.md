@@ -22,14 +22,22 @@
 - 📫 How to reach me **srmutthuram2007@gmail.com**
 
 <h2 align="center">Connect with Me</h2>
-<p align="center">
-<a href="https://www.linkedin.com/in/mutthuram-s-r-690abb345/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mutthuram s r" height="50" width="50" /></a>
-  &nbsp;
-<a href="https://instagram.com/mutthu_ram_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mutthu_ram_03" height="50" width="50" /></a>
-  &nbsp;
-<a href="https://www.leetcode.com/mutthuram_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mutthuram_03" height="50" width="50" /></a>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mutthuram-s-r-690abb345/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50"/>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/mutthu_ram_03" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.leetcode.com/mutthuram_03" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50"/>
+  </a>
+</p>
 </p>
 <h2 align="center">Tech Stack</h2>
 <p align="center">
