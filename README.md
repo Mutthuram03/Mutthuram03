@@ -15,8 +15,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mutthuram03&label=Profile%20views&color=0e75b6&style=flat" alt="mutthuram03" /> </p>
 
-- 🔭 I’m currently working on [RepoRadar](https://github.com/Mutthuram03/RepoRadar)😊
-
 - 🌱 I’m currently learning **DSA , REACT , MONGODB , JAVA**
 
 - 📫 How to reach me **srmutthuram2007@gmail.com**
